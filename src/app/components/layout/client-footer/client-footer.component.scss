@@ -1,7 +1,22 @@
 .footer{
   background-color: var(--navbar) !important;
 }
-p{
-  margin: 0px;
+.info{
+  padding-top: 50px;
+  padding-bottom : 50px;
   color: var(--footer-text);
+}
+ul{
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.copyRight{
+  text-align: center;
+  color: var(--copyRight-Color);
+}
+p{
+  margin-bottom: 0px !important;
 }
