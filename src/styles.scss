@@ -4,17 +4,10 @@ body {
 }
 
 :root {
-  --navbar: #002962
-}
-:root {
-  --navbar-text: red
-}
-:root {
-  --navbar-text-hover: #ffed66
-}
-:root {
-  --navbar-logo: url('./favicon.ico')
-}
-:root {
-  --footer-text: red
+  --navbar: #002962;
+  --navbar-text: red;
+  --navbar-text-hover: #ffed66;
+  --navbar-logo: url('./favicon.ico');
+  --footer-text: red;
+  --copyRight-Color: grey;
 }
